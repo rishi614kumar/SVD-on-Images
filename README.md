@@ -1,2 +1,3 @@
-# SVD-on-Images
-Applying SVD and rank-k approximation on images.
+# SVD on Images
+
+This notebook was for applying Singular Value Decomposition and rank-k approximation on images.
